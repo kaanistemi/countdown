@@ -23,6 +23,7 @@ body, html {
     transform:translate(-50%, -50%);
     text-align:center;
     margin-left:14px;
+    margin-top:40px;
 }
 
 h1 {
@@ -102,4 +103,36 @@ hr{
     letter-spacing:25px;
      margin-right:20px
   }
+}
+
+@media screen and (min-width: 630px) {
+  .middle {
+    margin-top:40px;
+  }
+}
+
+
+@media screen and (max-width: 631px) {
+  .middle {
+    margin-top:25px;
+  }
+}
+
+@media screen and (min-width: 630px) {
+.new-logo {
+  width:200px;
+  height:200px;
+  
+  
+}
+}
+
+
+@media screen and (max-width: 631px) {
+.new-logo {
+  width:150px;
+  height:150px;
+  
+  
+}
 }
