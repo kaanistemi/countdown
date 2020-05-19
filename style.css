@@ -107,14 +107,14 @@ hr{
 
 @media screen and (min-width: 630px) {
   .middle {
-    margin-top:40px;
+    margin-top:60px;
   }
 }
 
 
 @media screen and (max-width: 631px) {
   .middle {
-    margin-top:25px;
+    margin-top:40px;
   }
 }
 
